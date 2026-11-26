@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "frontiermilitary:block/field_generator"
+    },
+    "facing=east": {
+      "model": "frontiermilitary:block/field_generator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "frontiermilitary:block/field_generator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "frontiermilitary:block/field_generator",
+      "y": 270
+    }
+  }
+}

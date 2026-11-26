@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "frontiermilitary:block/floodlight"
+    },
+    "facing=east": {
+      "model": "frontiermilitary:block/floodlight",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "frontiermilitary:block/floodlight",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "frontiermilitary:block/floodlight",
+      "y": 270
+    }
+  }
+}
